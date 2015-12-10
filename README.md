@@ -1,0 +1,1 @@
+This is a bacic command line Space Invaders game in development for my own amusement. This is developed in c++. This is to inhance my knowledge in c++ but this can easily be implemented in other langauges.
